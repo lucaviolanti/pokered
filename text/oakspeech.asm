@@ -3,7 +3,7 @@ _OakSpeechText1::
 	line "Welcome to the"
 	cont "world of #MON!"
 
-	para "My name is OAK!"
+	para "My name is RICHARD!"
 	line "People call me"
 	cont "the #MON PROF!"
 	prompt

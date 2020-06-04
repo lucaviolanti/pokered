@@ -102,7 +102,7 @@ _SaffronCityText17::
 _SaffronCityText18::
 	text "SAFFRON CITY"
 	line "#MON GYM"
-	cont "LEADER: SABRINA"
+	cont "LEADER: SERENA"
 
 	para "The Master of"
 	line "Psychic #MON!"
