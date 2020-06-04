@@ -55,32 +55,32 @@ _OaksLabReceivedMonText::
 	text "!@@"
 
 _OaksLabLastMonText::
-	text "That's PROF.OAK's"
+	text "That's RICHARD's"
 	line "last #MON!"
 	done
 
 _OaksLabText_1d2f0::
-	text "OAK: Now, <PLAYER>,"
+	text "RICHARD: Now, <PLAYER>,"
 	line "which #MON do"
 	cont "you want?"
 	done
 
 _OaksLabText_1d2f5::
-	text "OAK: If a wild"
+	text "RICHARD: If a wild"
 	line "#MON appears,"
 	cont "your #MON can"
 	cont "fight against it!"
 	done
 
 _OaksLabText_1d2fa::
-	text "OAK: <PLAYER>,"
+	text "RICHARD: <PLAYER>,"
 	line "raise your young"
 	cont "#MON by making"
 	cont "it fight!"
 	done
 
 _OaksLabDeliverParcelText1::
-	text "OAK: Oh, <PLAYER>!"
+	text "RICHARD: Oh, <PLAYER>!"
 
 	para "How is my old"
 	line "#MON?"
@@ -96,7 +96,7 @@ _OaksLabDeliverParcelText1::
 	line "something for me?"
 
 	para "<PLAYER> delivered"
-	line "OAK's PARCEL.@@"
+	line "RICHARD's PARCEL.@@"
 
 _OaksLabDeliverParcelText2::
 	text ""
@@ -113,7 +113,7 @@ _OaksLabAroundWorldText::
 	done
 
 _OaksLabGivePokeballsText1::
-	text "OAK: You can't get"
+	text "RICHARD: You can't get"
 	line "detailed data on"
 	cont "#MON by just"
 	cont "seeing them."
@@ -145,7 +145,7 @@ _OaksLabGivePokeballsText2::
 	done
 
 _OaksLabPleaseVisitText::
-	text "OAK: Come see me"
+	text "RICHARD: Come see me"
 	line "sometimes."
 
 	para "I want to know how"
@@ -154,7 +154,7 @@ _OaksLabPleaseVisitText::
 	done
 
 _OaksLabText_1d31d::
-	text "OAK: Good to see "
+	text "RICHARD: Good to see "
 	line "you! How is your "
 	cont "#DEX coming? "
 	cont "Here, let me take"
@@ -172,7 +172,7 @@ _OaksLabText8::
 	done
 
 _OaksLabText_1d340::
-	text "PROF.OAK is the"
+	text "RICHARD is the"
 	line "authority on"
 	cont "#MON!"
 
@@ -188,7 +188,7 @@ _OaksLabRivalWaitingText::
 	done
 
 _OaksLabChooseMonText::
-	text "OAK: <RIVAL>?"
+	text "RICHARD: <RIVAL>?"
 	line "Let me think..."
 
 	para "Oh, that's right,"
@@ -222,13 +222,13 @@ _OaksLabRivalInterjectionText::
 	done
 
 _OaksLabBePatientText::
-	text "OAK: Be patient!"
+	text "RICHARD: Be patient!"
 	line "<RIVAL>, you can"
 	cont "have one too!"
 	done
 
 _OaksLabLeavingText::
-	text "OAK: Hey! Don't go"
+	text "RICHARD: Hey! Don't go"
 	line "away yet!"
 	done
 
@@ -285,7 +285,7 @@ _OaksLabText22::
 	done
 
 _OaksLabText23::
-	text "OAK: Oh right! I"
+	text "RICHARD: Oh right! I"
 	line "have a request"
 	cont "of you two."
 	done
@@ -305,7 +305,7 @@ _OaksLabText24::
 	done
 
 _OaksLabText25::
-	text "OAK: <PLAYER> and"
+	text "RICHARD: <PLAYER> and"
 	line "<RIVAL>! Take"
 	cont "these with you!"
 
@@ -355,7 +355,7 @@ _OaksLabText27::
 
 _OaksLabText_1d405::
 	text "I study #MON as"
-	line "PROF.OAK's AIDE."
+	line "RICHARD's AIDE."
 	done
 
 _OaksLabText_441cc::
@@ -369,7 +369,7 @@ _OaksLabText_441cc::
 	TX_NUM hDexRatingNumMonsOwned, 1, 3
 	text " #MON owned"
 
-	para "PROF.OAK's"
+	para "RICHARD's"
 	line "Rating:"
 	prompt
 

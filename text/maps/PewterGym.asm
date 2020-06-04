@@ -1,5 +1,5 @@
 _PewterGymText_5c49e::
-	text "I'm RAGHU!"
+	text "I'm TABS!"
 	line "I'm PEWTER's GYM"
 	cont "LEADER!"
 

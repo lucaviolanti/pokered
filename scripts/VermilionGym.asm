@@ -25,7 +25,7 @@ Gym3CityName:
 	db "VERMILION CITY@"
 
 Gym3LeaderName:
-	db "LT.SURGE@"
+	db "RICHIE@"
 
 VermilionGymSetDoorTile:
 	CheckEvent EVENT_2ND_LOCK_OPENED

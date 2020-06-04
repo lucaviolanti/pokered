@@ -90,7 +90,7 @@ _CeladonGameCornerText_48dca::
 	cont "champ in making!"
 
 	para "CELADON GYM's"
-	line "LEADER is ERIKA!"
+	line "LEADER is GEORGINA!"
 	cont "She uses grass-"
 	cont "type #MON!"
 

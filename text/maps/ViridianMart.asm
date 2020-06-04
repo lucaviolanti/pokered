@@ -1,6 +1,6 @@
 _ViridianMartText1::
 	text "Okay! Say hi to"
-	line "PROF.OAK for me!"
+	line "RICHARD for me!"
 	done
 
 _ViridianMartText4::
@@ -17,7 +17,7 @@ ViridianMartParcelQuestText::
 	cont "to him?"
 
 	para "<PLAYER> got"
-	line "OAK's PARCEL!@@"
+	line "RICHARD's PARCEL!@@"
 
 _ViridianMartText2::
 	text "This shop sells"

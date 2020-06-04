@@ -16,7 +16,7 @@ _PewterCityText2::
 	para "They're all like"
 	line "BUG CATCHERs,"
 	cont "but PEWTER GYM's"
-	cont "BROCK is totally"
+	cont "TABS is totally"
 	cont "into it!"
 	done
 
@@ -64,7 +64,7 @@ _PewterCityText_19431::
 
 _PewterCityText_1945d::
 	text "You're a trainer"
-	line "right? BROCK's"
+	line "right? TABS's"
 	cont "looking for new"
 	cont "challengers!"
 	cont "Follow me!"
@@ -73,7 +73,7 @@ _PewterCityText_1945d::
 _PewterCityText14::
 	text "If you have the"
 	line "right stuff, go"
-	cont "take on BROCK!"
+	cont "take on TABS!"
 	done
 
 _PewterCityText6::
@@ -104,7 +104,7 @@ _PewterCityText10::
 _PewterCityText11::
 	text "PEWTER CITY"
 	line "#MON GYM"
-	cont "LEADER: BROCK"
+	cont "LEADER: TABS"
 
 	para "The Rock Solid"
 	line "#MON Trainer!"

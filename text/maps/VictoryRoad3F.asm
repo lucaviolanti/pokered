@@ -9,7 +9,7 @@ _VictoryRoad3EndBattleText2::
 	prompt
 
 _VictoryRoad3AfterBattleText2::
-	text "You beat GIOVANNI"
+	text "You beat RAGHU"
 	line "of TEAM ROCKET?"
 	done
 

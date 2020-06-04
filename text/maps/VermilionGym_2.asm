@@ -56,7 +56,7 @@ _ReceivedThunderbadgeText::
 
 _VermilionGymBattleText1::
 	text "When I was in the"
-	line "Army, LT.SURGE"
+	line "Army, RICHIE"
 	cont "was my strict CO!"
 	done
 
@@ -69,7 +69,7 @@ _VermilionGymAfterBattleText1::
 	text "The door won't"
 	line "open?"
 
-	para "LT.SURGE always"
+	para "RICHIE always"
 	line "was cautious!"
 	done
 
@@ -86,7 +86,7 @@ _VermilionGymEndBattleText2::
 _VermilionGymAfterBattleText2::
 	text "OK, I'll talk!"
 
-	para "LT.SURGE said he"
+	para "RICHIE said he"
 	line "hid door switches"
 	cont "inside something!"
 	done
@@ -102,7 +102,7 @@ _VermilionGymEndBattleText3::
 	prompt
 
 _VermilionGymAfterBattleText3::
-	text "LT.SURGE set up"
+	text "RICHIE set up"
 	line "double locks!"
 	cont "Here's a hint!"
 
@@ -116,7 +116,7 @@ _VermilionGymFanPreBattleText::
 	text "Yo! Champ in"
 	line "making!"
 
-	para "LT.SURGE has a"
+	para "RICHIE has a"
 	line "nickname. People"
 	cont "refer to him as"
 	cont "the Lightning"
@@ -130,7 +130,7 @@ _VermilionGymFanPreBattleText::
 	cont "risk! Beware of"
 	cont "paralysis too!"
 
-	para "LT.SURGE is very"
+	para "RICHIE is very"
 	line "cautious!"
 
 	para "You'll have to"
