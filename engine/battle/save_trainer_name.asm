@@ -73,33 +73,33 @@ YoungsterName:
 BugCatcherName:
 	db "BUG CATCHER@"
 LassName:
-	db "LASS@"
+	db "ISLA@"
 JrTrainerMName:
-	db "JR.TRAINER♂@"
+	db "DONALD@"
 JrTrainerFName:
-	db "JR.TRAINER♀@"
+	db "LAURA@"
 PokemaniacName:
 	db "POKéMANIAC@"
 SuperNerdName:
-	db "SUPER NERD@"
+	db "ALAN@"
 BurglarName:
-	db "BURGLAR@"
+	db "JOHN@"
 EngineerName:
 	db "ENGINEER@"
 JugglerXName:
-	db "JUGGLER@"
+	db "CASEY@"
 SwimmerName:
-	db "SWIMMER@"
+	db "PERCY@"
 BeautyName:
 	db "BEAUTY@"
 RockerName:
 	db "ROCKER@"
 JugglerName:
-	db "JUGGLER@"
+	db "CASEY@"
 BlackbeltName:
-	db "BLACKBELT@"
+	db "SURESH@"
 ProfOakName:
-	db "PROF.OAK@"
+	db "RICHARD@"
 ChiefName:
 	db "CHIEF@"
 ScientistName:
@@ -107,6 +107,6 @@ ScientistName:
 RocketName:
 	db "ROCKET@"
 CooltrainerMName:
-	db "COOLTRAINER♂@"
+	db "KARIM@"
 CooltrainerFName:
-	db "COOLTRAINER♀@"
+	db "LUCA@"

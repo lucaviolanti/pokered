@@ -7,7 +7,7 @@ _CeladonGymText_48a5e::
 	line "I must have dozed"
 	cont "off. Welcome."
 
-	para "My name is GEORGINA."
+	para "My name is GEORGINA"
 	line "I am the LEADER"
 	cont "of CELADON GYM."
 
