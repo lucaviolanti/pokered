@@ -25,7 +25,7 @@ _PokemonTower1Text4::
 	done
 
 _PokemonTower1Text5::
-	text "I am a CHANNELER!"
+	text "I am GUANGJIE!"
 	line "There are spirits"
 	cont "up to mischief!"
 	done
