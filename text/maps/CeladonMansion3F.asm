@@ -4,8 +4,8 @@ _ProgrammerText::
 	done
 
 _GraphicArtistText::
-	text "I'm the graphic"
-	line "artist!"
+	text "I'm LUCA the"
+	line "graphic artist!"
 	cont "I drew you!"
 	done
 
@@ -61,6 +61,6 @@ _CeladonMansion3Text7::
 	done
 
 _CeladonMansion3Text8::
-	text "GAME FREAK"
+	text "#MON TEAM"
 	line "Development Room"
 	done
