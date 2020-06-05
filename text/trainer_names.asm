@@ -9,7 +9,7 @@ TrainerNames:
 	db "ALAN@"
 	db "HIKER@"
 	db "BIKER@"
-	db "BURGLAR@"
+	db "JOHN@"
 	db "ENGINEER@"
 	db "CASEY@"
 	db "FISHERMAN@"
